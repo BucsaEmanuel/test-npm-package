@@ -4,3 +4,8 @@
 
 Don't worry about this package, it does absolutely nothing :)
 
+## Install
+
+```
+$ npm install @bucsaemanuel/test-npm-package
+```
