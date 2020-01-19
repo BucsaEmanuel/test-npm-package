@@ -1,0 +1,14 @@
+{
+  "name": "@bucsaemanuel/test-npm-package",
+  "version": "1.0.0",
+  "description": "Does nothing",
+  "license": "MIT",
+  "repository": "bucsaemanuel/test-npm-package",
+  "main": "index.js",
+  "keywords": [
+    "test",
+    "npm",
+    "package",
+    "bucsaemanuel"
+  ]
+}
